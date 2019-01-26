@@ -1,4 +1,4 @@
-# vinas - run vina against a directory of ligand with same vina argument
+# vinas - run vina against a directory of ligands with same vina arguments
 
 ## Installation
 
